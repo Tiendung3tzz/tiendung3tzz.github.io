@@ -1,62 +1,6 @@
 # tiendung3tzz.github.io
 tiendung3tzz.github.io:1 
-        
-       A preload for 'https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute.
-hynyennhi143.github.io/:1 
-        
-       The resource https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
-hynyennhi143.github.io/:1 
-        
-       A preload for 'https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute.
-<html lang="en-US"><head>
-    <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Welcome to hyn.yennhi.github.io | yn</title>
-<meta name="generator" content="Jekyll v3.9.0">
-<meta property="og:title" content="Welcome to hyn.yennhi.github.io">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://hynyennhi143.github.io/yn/">
-<meta property="og:url" content="https://hynyennhi143.github.io/yn/">
-<meta property="og:site_name" content="yn">
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Welcome to hyn.yennhi.github.io">
-<script type="application/ld+json">
-{"url":"https://hynyennhi143.github.io/yn/","@type":"WebSite","headline":"Welcome to hyn.yennhi.github.io","name":"yn","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap" as="style" type="text/css" crossorigin="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/yn/assets/css/style.css?v=8964526ce0346fd586d9122f6871bdaf5aee2824">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/yn/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Welcome to hyn.yennhi.github.io</h1>
-      <h2 class="project-tagline"></h2>
-      
-        <a href="https://github.com/hynyennhi143/yn" class="btn">View on GitHub</a>
-      
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <h2 id="welcome-to-hynyennhigithubio">Welcome to hyn.yennhi.github.io</h2>
 
 <p>Hello 👋
 <strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong>_____</p>
